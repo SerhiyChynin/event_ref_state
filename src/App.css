@@ -1,6 +1,32 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
 }
+
+.App {
+  max-width: 1200px;
+  background-color: #858585;
+  text-align: center;
+  min-height: 50px;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+button {
+  margin-top: 10px;
+  margin-bottom: 10;
+}
+h1 {
+  margin: 10px 0 10px 0;
+}
+
+.test{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  margin: 0 auto;
+}
+
+
 
 .App-logo {
   height: 40vmin;
